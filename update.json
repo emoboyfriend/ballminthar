@@ -25,8 +25,6 @@
 "thumbnail":"div.archive-grid-post div.pos-rel.read-single.color-pad.clearfix.af-cat-widget-carousel.grid-design-default div.read-img.pos-rel.read-bg-img  img",
 
 "link":"div.archive-grid-post div.pos-rel.read-single.color-pad.clearfix.af-cat-widget-carousel.grid-design-default div.read-img.pos-rel.read-bg-img  a"
-
-
 }",
      "cucai2": "{\n\"servername\":\"https://cucai2.live/\",\n\"html_elements\":\"div.container div.box.box-grid.mb-0 div.box-content div.scrolling-wrapper-flexbox a\",\n\"html_homeTeam\":\"div.card div.team.team-home img.team-logo-img\",\n\"html_awayTeam\":\"div.card div.team.team-away img.team-logo-img\",\n\"html_homeImg\":\"div.card div.team.team-home img.team-logo-img\",\n\"html_awayImg\":\"div.card div.team.team-away img.team-logo-img\",\n\"html_homeGoal\":\"div.card span.v-center.goals-home\",\n\"html_awayGoal\":\"div.card span.v-center.goals-away\",\n\"html_date\":\"div.card div.match-item-info div.time span\",\n\"html_hour\":\"div.card div.match-item-info div.status span\",\n\"html_dataStatus\":\"div.card div.match-item-live.d-none div.badge-live\",\n\"html_minutes\":\"div.card div.match-item-live.d-none span.status_elapsed_wrapper span.status_elapsed\",\n\"html_liveHref\":\"href\"    }"
 
