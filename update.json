@@ -2,11 +2,11 @@
   
   {
     
-    "name":"Football",
-    "versionCode":"1",
-    "description":"Update ပေးရင် User ကိုအသိပေးရေးရမယ့်စာ",
-    "directDownload":"",
-    "playstoreDownload":"",
+    "name":"Ball Min Thar",
+    "versionCode":"5",
+    "description":"Please Update Version 2.0!",
+    "directDownload":"https://play.google.com/store/apps/details?id=com.ballminther.app",
+    "playstoreDownload":"https://play.google.com/store/apps/details?id=com.ballminther.app",
     "adChange":"admob",
     "serverlink":"https://mygoaltv.xyz/",
       "match": "{\n\"servername\":\"https://mygoaltv.xyz/\",\n\n\"elements\":\"div.match-list div.match\",\n\n\"league\":\"div.league\",\n\n\"date\":\"div.score span.vs\",\n\n\"time\":\"div.score div.time font\",\n\n\"home_team\":\"div.home-team img.team-logo\",\n\n\"home_img\":\"div.home-team img.team-logo\",\n\n\"away_team\":\"div.away-team img.team-logo\",\n\n\"away_img\":\"div.away-team img.team-logo\",\n\n\"live_href\":\"ul li.video-p a\"\n\n\n\n\n}",
